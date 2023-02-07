@@ -13,7 +13,15 @@ export default function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by SheCodes</small>
+          <small>
+            Coded by Neelam Katwal{" "}
+            <a
+              href="https://github.com/NeelamK1990/dictionary-project"
+              className="text-decoration-none"
+            >
+              OpenSourcedCode
+            </a>
+          </small>
         </footer>
       </div>
     </div>
