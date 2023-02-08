@@ -14,12 +14,16 @@ export default function App() {
         </main>
         <footer className="App-footer">
           <small>
-            Coded by Neelam Katwal{" "}
+            Coded by <strong>Neelam Katwal</strong> and is{" "}
             <a
               href="https://github.com/NeelamK1990/dictionary-project"
               className="text-decoration-none"
             >
               OpenSourcedCode
+            </a>{" "}
+            on{" "}
+            <a href="https://github.com/NeelamK1990/dictionary-project">
+              GitHub
             </a>
           </small>
         </footer>
